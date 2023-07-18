@@ -71,4 +71,11 @@ int print_last_digit(int);
 
 void jack_bauer(void);
 
+
+/**
+ * times_table - print multiplication table
+ */
+
+void times_table(void);
+
 #endif
