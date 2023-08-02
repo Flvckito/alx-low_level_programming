@@ -30,4 +30,12 @@ void _print_rev_recursion(char *s);
 
 int _strlen_recursion(char *s);
 
+/**
+ * factorial - find factorial of n
+ * @n: number
+ * Return: factorial of number, -1 if negative n
+ */
+
+int factorial(int n);
+
 #endif
