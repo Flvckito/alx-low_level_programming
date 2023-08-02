@@ -1,5 +1,5 @@
 #ifndef MAIN_H
-#define MAIN_H
+#define MAiN_H
 
 /**
  * _putchar - puts character to standard output
@@ -46,5 +46,13 @@ int factorial(int n);
  */
 
 int _pow_recursion(int x, int y);
+
+/**
+ * _sqrt_recursion - find natural square root of n
+ * @n: n
+ * Return: natural square root, or -1 if not natural root
+ */
+
+int _sqrt_recursion(int n);
 
 #endif
