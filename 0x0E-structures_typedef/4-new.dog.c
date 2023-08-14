@@ -23,7 +23,7 @@ return (i);
  * @src: this is the source to copy
  * Return: copy of original source
  */
-char *strcpy(char *dest, char *src)
+*strcpy(char *dest, char *src)
 {
 int i;
 
